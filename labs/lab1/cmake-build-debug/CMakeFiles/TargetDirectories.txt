@@ -1,0 +1,3 @@
+/mnt/e/sem5/parallel_and_distributed_programming/labs/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/e/sem5/parallel_and_distributed_programming/labs/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/e/sem5/parallel_and_distributed_programming/labs/lab1/cmake-build-debug/CMakeFiles/lab1.dir
