@@ -10,16 +10,16 @@ void multiplyMatrices(int startIdx, int stopIdx, MatrixMultiplication multiplica
 }
 int main()
 {
-	const int ROWS_1 = 100;
-	const int COLS_1 = 100;
+	const int ROWS_1 = 1000;
+	const int COLS_1 = 1000;
 
 	const int ROWS_2 = COLS_1;
-	const int COLS_2 = 100;
+	const int COLS_2 = 1000;
 
 	const int ROWS_RESULT = ROWS_1;
 	const int COLS_RESULT = COLS_2;
 
-	const int NO_TASKS = 20;
+	const int NO_TASKS = 50;
 	const int NO_ELEMS_PER_TASK = (ROWS_RESULT * COLS_RESULT) / NO_TASKS;
 	std::string METHOD = "threads";
 
@@ -29,9 +29,9 @@ int main()
 	Matrix b = Matrix(ROWS_2, COLS_2);
 	b.initializeWithValues();
 
-	a.print();
+	//a.print();
 	std::cout << std::endl;
-	b.print();
+	//b.print();
 	std::cout << std::endl;
 
 	Matrix result = Matrix(ROWS_RESULT, COLS_RESULT);
@@ -72,7 +72,7 @@ int main()
 		pool.close();
 	}
 	std::chrono::milliseconds end = std::chrono::duration_cast<std::chrono::milliseconds>(std::chrono::system_clock::now().time_since_epoch());
-	result.print();
+	//result.print();
 	std::cout << "Time: " << (end - start).count() << " ms\n";
 
 	return 0;

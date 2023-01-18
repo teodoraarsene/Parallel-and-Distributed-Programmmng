@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\bin",
+    "\\obj",
+    "\\Parser",
+    "\\Socket"
+  ],
+  "SelectedNode": "\\Parser\\AsyncAwaitSolution.cs",
+  "PreviewInSolutionExplorer": false
+}

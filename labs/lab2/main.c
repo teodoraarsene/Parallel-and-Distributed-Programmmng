@@ -66,7 +66,7 @@ void* consumer(void* arg){
         pthread_mutex_unlock(&mutex);
     }
 
-    printf("[PRODUCER THREAD COMPLETED TASK]\n");
+    printf("[CONSUMER THREAD COMPLETED TASK]\n");
     return NULL;
 }
 

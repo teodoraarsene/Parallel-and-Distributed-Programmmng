@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/e/sem5/parallel_and_distributed_programming/labs/lab6/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+time.h
+-
+thread
+-
+mutex
+-
+

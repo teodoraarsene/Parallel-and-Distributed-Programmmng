@@ -1,0 +1,32 @@
+E:\sem5\parallel_and_distributed_programming\labs\lab4\Semester 5\Parallel and Distributed Programming\Labs\Lab 4\bin\Debug\net5.0\Lab4.exe
+E:\sem5\parallel_and_distributed_programming\labs\lab4\Semester 5\Parallel and Distributed Programming\Labs\Lab 4\bin\Debug\net5.0\Lab4.deps.json
+E:\sem5\parallel_and_distributed_programming\labs\lab4\Semester 5\Parallel and Distributed Programming\Labs\Lab 4\bin\Debug\net5.0\Lab4.runtimeconfig.json
+E:\sem5\parallel_and_distributed_programming\labs\lab4\Semester 5\Parallel and Distributed Programming\Labs\Lab 4\bin\Debug\net5.0\Lab4.runtimeconfig.dev.json
+E:\sem5\parallel_and_distributed_programming\labs\lab4\Semester 5\Parallel and Distributed Programming\Labs\Lab 4\bin\Debug\net5.0\Lab4.dll
+E:\sem5\parallel_and_distributed_programming\labs\lab4\Semester 5\Parallel and Distributed Programming\Labs\Lab 4\bin\Debug\net5.0\Lab4.pdb
+E:\sem5\parallel_and_distributed_programming\labs\lab4\Semester 5\Parallel and Distributed Programming\Labs\Lab 4\obj\Debug\net5.0\Lab4.csproj.AssemblyReference.cache
+E:\sem5\parallel_and_distributed_programming\labs\lab4\Semester 5\Parallel and Distributed Programming\Labs\Lab 4\obj\Debug\net5.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+E:\sem5\parallel_and_distributed_programming\labs\lab4\Semester 5\Parallel and Distributed Programming\Labs\Lab 4\obj\Debug\net5.0\Lab4.AssemblyInfoInputs.cache
+E:\sem5\parallel_and_distributed_programming\labs\lab4\Semester 5\Parallel and Distributed Programming\Labs\Lab 4\obj\Debug\net5.0\Lab4.AssemblyInfo.cs
+E:\sem5\parallel_and_distributed_programming\labs\lab4\Semester 5\Parallel and Distributed Programming\Labs\Lab 4\obj\Debug\net5.0\Lab4.csproj.CoreCompileInputs.cache
+E:\sem5\parallel_and_distributed_programming\labs\lab4\Semester 5\Parallel and Distributed Programming\Labs\Lab 4\obj\Debug\net5.0\Lab4.dll
+E:\sem5\parallel_and_distributed_programming\labs\lab4\Semester 5\Parallel and Distributed Programming\Labs\Lab 4\obj\Debug\net5.0\refint\Lab4.dll
+E:\sem5\parallel_and_distributed_programming\labs\lab4\Semester 5\Parallel and Distributed Programming\Labs\Lab 4\obj\Debug\net5.0\Lab4.pdb
+E:\sem5\parallel_and_distributed_programming\labs\lab4\Semester 5\Parallel and Distributed Programming\Labs\Lab 4\obj\Debug\net5.0\Lab4.genruntimeconfig.cache
+E:\sem5\parallel_and_distributed_programming\labs\lab4\Semester 5\Parallel and Distributed Programming\Labs\Lab 4\obj\Debug\net5.0\ref\Lab4.dll
+E:\sem5\parallel_and_distributed_programming\labs\lab4\bin\Debug\net5.0\Lab4.exe
+E:\sem5\parallel_and_distributed_programming\labs\lab4\bin\Debug\net5.0\Lab4.deps.json
+E:\sem5\parallel_and_distributed_programming\labs\lab4\bin\Debug\net5.0\Lab4.runtimeconfig.json
+E:\sem5\parallel_and_distributed_programming\labs\lab4\bin\Debug\net5.0\Lab4.runtimeconfig.dev.json
+E:\sem5\parallel_and_distributed_programming\labs\lab4\bin\Debug\net5.0\Lab4.dll
+E:\sem5\parallel_and_distributed_programming\labs\lab4\bin\Debug\net5.0\Lab4.pdb
+E:\sem5\parallel_and_distributed_programming\labs\lab4\obj\Debug\net5.0\Lab4.csproj.AssemblyReference.cache
+E:\sem5\parallel_and_distributed_programming\labs\lab4\obj\Debug\net5.0\Lab4.GeneratedMSBuildEditorConfig.editorconfig
+E:\sem5\parallel_and_distributed_programming\labs\lab4\obj\Debug\net5.0\Lab4.AssemblyInfoInputs.cache
+E:\sem5\parallel_and_distributed_programming\labs\lab4\obj\Debug\net5.0\Lab4.AssemblyInfo.cs
+E:\sem5\parallel_and_distributed_programming\labs\lab4\obj\Debug\net5.0\Lab4.csproj.CoreCompileInputs.cache
+E:\sem5\parallel_and_distributed_programming\labs\lab4\obj\Debug\net5.0\Lab4.dll
+E:\sem5\parallel_and_distributed_programming\labs\lab4\obj\Debug\net5.0\refint\Lab4.dll
+E:\sem5\parallel_and_distributed_programming\labs\lab4\obj\Debug\net5.0\Lab4.pdb
+E:\sem5\parallel_and_distributed_programming\labs\lab4\obj\Debug\net5.0\Lab4.genruntimeconfig.cache
+E:\sem5\parallel_and_distributed_programming\labs\lab4\obj\Debug\net5.0\ref\Lab4.dll
